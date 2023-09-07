@@ -22,7 +22,6 @@
     "jsonwebtoken": "^9.0.2",
     "luxon": "^3.4.3",
     "moment-timezone": "^0.5.43",
-    "mongodb": "^6.0.0",
     "mongoose": "^7.5.0",
     "morgan": "^1.10.0",
     "nodemon": "^3.0.1",
