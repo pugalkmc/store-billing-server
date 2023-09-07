@@ -17,7 +17,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 app.use(cors({
-  origin: "https://store-frontend-bice.vercel.app"
+  origin: "https://saravana-agro-service.netlify.app"
 }));
 const MONGODB_URI="mongodb+srv://pugalkmc:pugalsaran143@cluster0.dnr2yma.mongodb.net"
 mongoose.connect(MONGODB_URI, {
